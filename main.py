@@ -1,7 +1,7 @@
 # advent of code day one
 # Joshua Whynot
 # 12/12/23
-
+# https://github.com/Joshua-Whynot 
 
 def main():
     file = open("input.txt", "r")
